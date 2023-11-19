@@ -17,7 +17,8 @@
     ],
     "products":[
         {
-            "products":"game"
+            "products":"game",
+            "products":"videocarta"
         }
     ]
 }

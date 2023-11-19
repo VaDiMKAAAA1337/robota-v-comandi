@@ -6,6 +6,13 @@
         "surname":"Fainitska",
         "photo_url":"https://avatars.githubusercontent.com/u/149946831?v=4",
         "balance":"4444444444"
+        },
+        {
+            "id": 149946906,
+            "name": "vadim",
+            "sirname": "kogutv",
+            "photo_url": "https://avatars.githubusercontent.com/u/149946906?v=4",
+            "balance": 1000
         }
     ]
 }

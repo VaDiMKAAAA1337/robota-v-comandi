@@ -13,6 +13,13 @@
             "sirname": "kogut",
             "photo_url": "https://avatars.githubusercontent.com/u/149946906?v=4",
             "balance": 1000
+        },
+        {
+            "id": 147550511,
+            "name": "mykhailo",
+            "sirname": "yurchenko",
+            "photo_url": "https://avatars.githubusercontent.com/u/147550511?v=4",
+            "balance": 666666666
         }
     ],
     "products":[
